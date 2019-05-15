@@ -1,0 +1,13 @@
+### Maven ###
+.mvn/
+mvnw.cmd
+mvnw
+
+### Project ###
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iml
